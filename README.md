@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Immortals430
 - 👀 I’m interested in Web Development, Gaming, Programming
-- 🌱 I’m currently learning Full Stack Web Development
+- 🌱 I’m currently learning React Js
 
 
 
