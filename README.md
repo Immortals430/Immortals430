@@ -1,6 +1,6 @@
 - 👋 Hi, Myself Vishal Kumar
 - 👀 I’m interested in Web Development, Gaming, Programming
-- 🌱 I’m currently learning Java DSA
+- 🌱 I’m currently learning Nextjs
 
 
 
