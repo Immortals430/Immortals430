@@ -29,8 +29,8 @@
 
 ## 📬 Contact Me
 ✉️ vishalkumar619430@gmail.com <br />
-🔗 [LinkedIn](https://www.linkedin.com/in/vishal-kumar-788326273/)   <br />
-🌐 [Portfolio](https://vishalkumar619430.netlify.app/)  <br />
+🔗 [LinkedIn](https://www.linkedin.com/in/myselfvishal/)   <br />
+🌐 [Portfolio](https://myself-vishal.netlify.app/)  <br />
 
 ---
 
